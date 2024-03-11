@@ -1,9 +1,6 @@
-- 👋 Hi, I’m @bernardobustamantemartinez
-- 👀 I’m interested in software and golf
-- 🌱 I’m currently learning Next.js
-- 📫 How to reach me bernardobustamantemartinez@gmail.com
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: I've traveled to over 35 countries
+- 👋 hi, i’m @bernardobustamantemartinez
+- 👀 i’m interested in software and golf
+- 📫 reach me bernardobustamantemartinez@gmail.com
 
 <!---
 bernardobustamantemartinez/bernardobustamantemartinez is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
